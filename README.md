@@ -17,15 +17,9 @@ A robust API Test Automation framework designed to validate REST APIs through au
 
 ## 🛠️ Tech Stack
 
-> Update this section according to your project.
-
-* Java
-* Rest Assured
-* TestNG / JUnit 5
-* Maven
-* Jackson / Gson
-* Extent Reports / Allure Reports
-* GitHub Actions (Optional)
+* Playwright
+* API
+* GitHub Actions
 
 ---
 
